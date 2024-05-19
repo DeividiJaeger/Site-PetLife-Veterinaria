@@ -163,11 +163,14 @@ footer nav a {
 footer a {
     text-decoration: none;
     color: #263138;
+    text-decoration: none;
 }
 
 footer p {
     margin-bottom: 16px;
     max-width: 350px;
+    text-decoration: none;
+
 }
 
 footer p a {
@@ -180,10 +183,12 @@ footer p a {
     color: #FFFF;
     padding: 24px;
     text-align: center;
+    text-decoration: none;
 }
 
-copyright a {
+.copyright a {
     color: #ff725e;
+    text-decoration: none;
 }
 
 /* Media Queries */
